@@ -1,0 +1,12 @@
+Homework 1
+
+Create a new repo on Github ( gitpracticehw1)
+Create new file for called one.txt
+Clone it 
+Branch it 
+Make changes in branches ( Add new file called two.txt and add some changes to one.txt)
+Rebase it with master
+Push the changes in master to remote master 
+Create a readme.md file on steps you took and challenges you faced 
+
+----------Advanced --Roll back to commit 
